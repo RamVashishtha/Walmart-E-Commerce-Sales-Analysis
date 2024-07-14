@@ -11,3 +11,4 @@ facilitate data-driven decision-making.
 • Implemented DAX calculations to measure key performance indicators (KPIs) such as total sales, average revenue
 per product, and year-over-year growth. Enhanced data accessibility and collaboration by deploying the dashboard
 across departments, leading to a 15 percent increase in sales efficiency
+![image](https://github.com/user-attachments/assets/47a781c1-d92e-4fe0-a2d4-eb6f5b104b82)
